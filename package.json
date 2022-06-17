@@ -1,0 +1,20 @@
+{
+  "name": "nova-stt-chrome",
+  "version": "1.0.0",
+  "description": "This skill will allow you to talk to your NOVA assistant.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeyHeyChicken/STT-Chrome.git"
+  },
+  "author": "Antoine Duval",
+  "license": "SEE LICENSE IN LICENSE FILE",
+  "bugs": {
+    "url": "https://github.com/HeyHeyChicken/STT-Chrome/issues"
+  },
+  "homepage": "https://github.com/HeyHeyChicken/STT-Chrome#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
