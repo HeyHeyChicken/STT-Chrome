@@ -15,12 +15,11 @@ This skill will allow you to talk to your NOVA assistant.
 
 ## Features
 
-- This skill will allow you to play Spotify music (need a premium account).
-- This skill will allow you to next and previous songs.
+- This skill will allow you to talk to your NOVA assistant (need an internet connection and the Chrome browser).
 
 ## Support and contribution
 
-I provide support for all users through [GitHub issues](//github.com/HeyHeyChicken/NOVA-Spotify/issues).
+I provide support for all users through [GitHub issues](//github.com/HeyHeyChicken/STT-Chrome/issues).
 
 If you would like to contribute to this project, make sure you first read the [guide for contributors](//github.com/HeyHeyChicken/NOVA/blob/master/CONTRIBUTING.md).
 
