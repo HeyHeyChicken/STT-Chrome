@@ -1,7 +1,7 @@
 {
   "name": "nova-stt-chrome",
   "version": "1.0.0",
-  "description": "This skill will allow your assistant to understand your voice with the Chrome's STT service.\n- An internet connection is required\n- The use of the 'Chrome' browser on your clients is required.",
+  "description": "This skill will allow your assistant to understand your voice with the Chrome's STT service. An internet connection is required and the use of the 'Chrome' browser on your clients is required.",
   "main": "src/index.js",
   "repository": {
     "type": "git",
