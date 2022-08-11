@@ -1,14 +1,14 @@
 {
 	"worksOffline" : false,
 	"description" : {
-		"fr-FR": "Cette compétence permettra à votre assistant de comprendre votre voix avec le service STT de Chrome. <br/><br/>/!\ L'utilisation du navigateur \"Chrome\" sur vos clients est nécessaire.",
+		"fr-FR": "Cette compétence permettra à votre assistant de comprendre votre voix avec le service STT de Chrome. <br/><br/>/!\\ L'utilisation du navigateur \"Chrome\" sur vos clients est nécessaire.",
 		"en-US": "This skill will allow your assistant to understand your voice with the Chrome's STT service. <br/><br/>/!\\ The use of the \"Chrome\" browser on your clients is required."
 	},
 	"language": [
 		"fr-FR",
-    "en-US",
-    "es-ES",
-    "it-IT",
-    "de-DE"
+		"en-US",
+		"es-ES",
+		"it-IT",
+		"de-DE"
 	]
 }
